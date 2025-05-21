@@ -1,0 +1,13 @@
+{
+  "name": "@minnasync/api-types",
+  "version": "0.0.1",
+  "type": "module",
+  "module": "index.ts",
+  "types": "index.ts",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
