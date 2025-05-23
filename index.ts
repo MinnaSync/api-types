@@ -48,15 +48,15 @@ export type Meta = {
         /**
          * The title in English.
          */
-        english: string;
+        english: string | null;
         /**
          * The title in Romaji.
          */
-        romaji: string;
+        romaji: string | null;
         /**
          * The title in native language.
          */
-        native: string;
+        native: string | null;
     };
     /**
      * A description of the anime.
